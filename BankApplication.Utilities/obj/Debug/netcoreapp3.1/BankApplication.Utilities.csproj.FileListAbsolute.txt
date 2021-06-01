@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\bin\Debug\netcoreapp3.1\BankApplication.Utilities.deps.json
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\bin\Debug\netcoreapp3.1\BankApplication.Utilities.dll
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\bin\Debug\netcoreapp3.1\BankApplication.Utilities.pdb
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.dll
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Utilities\obj\Debug\netcoreapp3.1\BankApplication.Utilities.pdb

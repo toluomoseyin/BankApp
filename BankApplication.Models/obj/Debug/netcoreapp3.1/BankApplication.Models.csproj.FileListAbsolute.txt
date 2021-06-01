@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\bin\Debug\netcoreapp3.1\BankApplication.Models.deps.json
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\bin\Debug\netcoreapp3.1\BankApplication.Models.dll
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\bin\Debug\netcoreapp3.1\BankApplication.Models.pdb
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\bin\Debug\netcoreapp3.1\BankApplication.Utilities.dll
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\bin\Debug\netcoreapp3.1\BankApplication.Utilities.pdb
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.AssemblyInfo.cs
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.csproj.CopyComplete
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.dll
+C:\Users\hp\Desktop\week-4 Task\BankApplication\BankApplication.Models\obj\Debug\netcoreapp3.1\BankApplication.Models.pdb
